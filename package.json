@@ -17,9 +17,9 @@
   },
   "homepage": "https://github.com/Droplr/droplr-js-sdk#readme",
   "dependencies": {
-    "auto-bind": "^1.2.0",
     "axios": "^0.18.0",
     "js-cookie": "^2.2.0",
-    "lodash": "^4.17.5"
+    "lodash": "^4.17.5",
+    "react-auto-bind": "^0.4.2"
   }
 }
