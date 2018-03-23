@@ -2,7 +2,7 @@
   "name": "droplr-js-sdk",
   "version": "1.0.0",
   "description": "A Droplr js SDK based on Axios so it works in the browser and in node",
-  "main": "lib/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
