@@ -10,7 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/Droplr/droplr-js-sdk.git"
   },
-  "author": "levi@droplr.com, rafal@droplr.com",
+  "author": "Droplr <hello@droplr.com> (https://github.com/Droplr)",
+  "contributors": [
+    "Levi Nunnink <levi@droplr.com> (https://github.com/levinunnink)",
+    "Rafal Swietek <raf.swietek@gmail.com> (https://github.com/rafalswietek)",
+    "Necromos <necromos@necroworks.net> (https://github.com/necromos)",
+    "Kasper Slusarczyk <kasper@droplr.com> (https://github.com/kasperslu)",
+    "Aliaksandr Savitski <alieks.sawicki@gmail.com> (https://github.com/aliaksandr-savitski)"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Droplr/droplr-js-sdk/issues"
