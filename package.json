@@ -1,6 +1,6 @@
 {
   "name": "droplr-js-sdk",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "A Droplr js SDK based on Axios so it works in the browser and in node",
   "main": "index.js",
   "scripts": {
